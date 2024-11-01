@@ -96,3 +96,7 @@ This simple game can be expanded in several ways:
 ---
 
 With this README file, you should have a good understanding of how to play the game, what each part of the code does, and potential ways to improve it as you learn more Python! Enjoy your Blackjack game!
+
+
+<img width="650" alt="1" src="https://github.com/user-attachments/assets/51b1fc97-3dd5-44ad-a330-4c36761ee85e">
+
