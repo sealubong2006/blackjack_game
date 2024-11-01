@@ -1,9 +1,6 @@
 # blackjack_game
 Blackjack Game in Python
 
-Here's a beginner-friendly README file for your Blackjack game:
-
----
 
 # Blackjack Game in Python
 
